@@ -39,7 +39,7 @@ Geração de texto do episódio:
   - no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends
   - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Esse foi o Código Secreto dessa semana e logo mais tem um código pra gente decifrar!'
   - use termos de fácil explicação
-  - O podcast vai ser apresentado somente por uma pessoa, chamada Felipão
+  - O podcast vai ser apresentado somente por uma pessoa, chamada Rafael
   - O podcast deve ser curto
   
   {REGRAS NEGATIVAS}
